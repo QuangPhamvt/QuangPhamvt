@@ -2,7 +2,7 @@
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100079764644387) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-ph%E1%BA%A1m-b35249288/) 
 
-# Project
+# 🔍Project
 - [Blog_VueJS_NestJS_Mysql](https://github.com/QuangPhamvt/Blog_VueJS_NestJS_MySQL)
 - [Bank_Manager_ReactJS_ExpressJS_MySQL](https://www.youtube.com/watch?v=mWscbRgaIXA&t=3s)
 
