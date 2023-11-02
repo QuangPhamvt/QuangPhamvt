@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quangphamvt&label=Profile%20views&color=0e75b6&style=flat" alt="quangphamvt" /> </p>
 
-- 🔭 I’m currently working at **Vitalify Asia**
+- 🔭 Developer at **Vitalify Asia**
 
 - 🌱 I’m currently learning **ASP.NET, React Native, Aws**
 
