@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, React Native, Aws**
 
-- 📝 I regularly write articles on [customafk.com](customafk.com)
+- 📝 I regularly write articles on [customafk.com](http://customafk.com)
 
 - 💬 Ask me about **react, nodejs, bun, aws**
 
