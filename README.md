@@ -5,7 +5,7 @@
 
 - 🔭 Developer at **Vitalify Asia**
 
-- 🌱 I’m currently learning **ASP.NET, React Native, Aws, CI/CD**
+- 🌱 I’m currently learning **ASP.NET, React Native, Aws, CI/CD, Django, Python**
 
 - 📝 I regularly write articles on [customafk.com](http://customafk.com)
 
